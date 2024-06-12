@@ -4,3 +4,4 @@ lab/lab02_new/data/data.csv
 *.swo
 *.swp
 _site/
+.OTTER_LOG
